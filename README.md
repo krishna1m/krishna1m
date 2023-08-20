@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **krishna.m.zyw@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/krishna1m/](https://www.linkedin.com/in/krishna1m/)
-
 - ⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
 
 <h3 align="left">Connect with me:</h3>
