@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna1m&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="krishna1m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna1m&" alt="krishna1m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna1m&theme=gruvbox&hide_border=true&border_radius=20" alt="krishna1m" /></p>
