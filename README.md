@@ -5,8 +5,6 @@
 
 💬 Ask me about **functional programming with Scala and Elixir, Rust, dev workflow**
 
-✉️ Reach me out on **krishna.m.zyw@gmail.com**
-
 ❤️ Functional Programming and playing with the terminal
 
 ⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
