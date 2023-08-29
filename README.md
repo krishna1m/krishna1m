@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋 I'm Manmohan Krishna</h1>
+<h1 align="center">Hi there 👋🏻 I'm Manmohan Krishna</h1>
 
 🌱 I’m currently learning **Phoenix Liveview**
 
@@ -8,6 +8,8 @@
 ✉️ Reach me out on **krishna.m.zyw@gmail.com**
 
 ⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
+
+❤️ Functional Programming and playing with the terminal
 
 <h3 align="left">Socials</h3>
 <p align="left">
