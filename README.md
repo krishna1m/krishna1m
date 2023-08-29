@@ -10,11 +10,10 @@
 
 - ⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/re1konn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re1konn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishna1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna1m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishna1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna1m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
