@@ -7,9 +7,10 @@
 
 ✉️ Reach me out on **krishna.m.zyw@gmail.com**
 
+❤️ Functional Programming and playing with the terminal
+
 ⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
 
-❤️ Functional Programming and playing with the terminal
 
 <h3 align="left">Socials</h3>
 <p align="left">
