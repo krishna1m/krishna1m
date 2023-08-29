@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi there 👋 I'm Manmohan Krishna</h1>
-<h3 align="center">Functional Programming λ and Vim Geek</h3>
 
 🌱 I’m currently learning **Phoenix Liveview**
 
