@@ -14,8 +14,9 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
+<a href="mailto:krishna.m.zyw@gmail.com"><img align="center" src="https://img.icons8.com/?size=2x&id=YbPqIO0gOrT3&format=png" alt="re1konn" height="30" width="40" /></a> 
 <a href="https://twitter.com/re1konn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re1konn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna1m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna1m" height="25" width="40" /></a>
 </p>
 
 <h3 align="left">Languages I use</h3>
