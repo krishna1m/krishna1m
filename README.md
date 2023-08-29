@@ -2,13 +2,13 @@
 <h1 align="center">Hi there 👋 I'm Manmohan Krishna</h1>
 <h3 align="center">Functional Programming λ and Vim Geek</h3>
 
- 🌱 I’m currently learning **Phoenix Liveview**
+🌱 I’m currently learning **Phoenix Liveview**
 
- 💬 Ask me about **functional programming with Scala and Elixir, Rust, dev workflow**
+💬 Ask me about **functional programming with Scala and Elixir, Rust, dev workflow**
 
- ✉️ Reach me out on **krishna.m.zyw@gmail.com**
+✉️ Reach me out on **krishna.m.zyw@gmail.com**
 
- ⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
+⚡ Fun fact **A Monad is a Monoid in the category of endofunctors**
 
 <h3 align="left">Socials</h3>
 <p align="left">
