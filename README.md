@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋🏻</h1>
 
-I'm a guy who does writes software during the day and headbangs to old rock songs other times.
+I'm a guy who writes software during the day and headbangs to old rock songs other times.
 I like exploring code architecture and programming paradigms.
 That is what got me hooked to functional programming and Rust.
 
