@@ -5,7 +5,7 @@ I'm a guy who does software engineering during the day and headbangs to old rock
 I like exploring code architecture and programming paradigms.
 That is what got me hooked to functional programming and other languages like Rust.
 
-💬 Ask me about **functional programming with Scala and Elixir, Rust, dev workflow**
+💬 Talk to me about **functional programming with Scala and Elixir, Rust, dev workflow**
 
 ❤️ Functional Programming and playing with the terminal
 
