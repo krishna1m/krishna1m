@@ -3,7 +3,7 @@
 
 I'm a guy who does software engineering during the day and headbangs to old rock songs other times.
 I like exploring code architecture and programming paradigms.
-That is what got me hooked to functional programming and other languages like Rust.
+That is what got me hooked to functional programming and Rust.
 
 💬 Talk to me about **functional programming with Scala and Elixir, Rust, dev workflow**
 
