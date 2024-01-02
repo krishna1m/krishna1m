@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋🏻 I'm Manmohan Krishna</h1>
+<h1 align="center">Hi 👋🏻</h1>
 
 🌱 I’m currently learning **Phoenix Liveview**
 
