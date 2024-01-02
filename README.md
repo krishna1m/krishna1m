@@ -15,8 +15,8 @@ That is what got me hooked to functional programming and other languages like Ru
 <h3 align="left">Socials</h3>
 <p align="left">
 <a href="mailto:krishna.m.zyw@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="re1konn" height="40"  /></a> 
-<a href="https://twitter.com/re1konn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="re1konn" height="40" /></a>
 <a href="https://linkedin.com/in/krishna1m" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="krishna1m" height="40"  /></a>
+<a href="https://twitter.com/re1konn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="re1konn" height="40" /></a>
 </p>
 
 <h3 align="left">Languages I use</h3>
