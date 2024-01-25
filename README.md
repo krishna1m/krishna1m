@@ -9,7 +9,7 @@ That is what got me hooked to functional programming and Rust.
 
 ❤️ Functional Programming and playing with the terminal
 
-⚡ Fun fact **A monad is a monoid in the category of endofunctors**
+⚡ **Fun fact** A monad is a monoid in the category of endofunctors
 
 
 <h3 align="left">Socials</h3>
