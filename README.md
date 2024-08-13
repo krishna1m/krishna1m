@@ -5,11 +5,11 @@ I'm a guy who writes software during the day and headbangs to old metal songs ot
 I like exploring code architecture and programming paradigms.
 That is what got me hooked to functional programming and Rust.
 
-💬 Talk to me about **functional programming with Scala and Elixir, Rust, dev workflow**
+💬 Talk to me about **functional programming and dev workflow**
 
-❤️ Functional Programming and playing with the terminal
+❤️ Playing with the terminal
 
-⚡ **Fun fact** A monad is a monoid in the category of endofunctors
+⚡ **Fun fact** A monad is a monoid in the category of endofunctors 🙃
 
 
 <h3 align="left">Socials</h3>
