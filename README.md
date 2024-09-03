@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi there 👋🏻</h1>
+<h1 align="center">Helloo 👋🏻</h1>
 
+I like code.
 I'm a guy who writes software during the day and headbangs to old metal songs other times.
 I like exploring code architecture and programming paradigms.
 
