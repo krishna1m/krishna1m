@@ -3,9 +3,8 @@
 
 I like code.
 I'm a guy who writes software during the day and headbangs to old metal songs other times.
-I like exploring code architecture and programming paradigms.
 
-💬 Talk to me about **functional programming and dev workflow**
+💬 Talk to me about **code architecture and dev workflows**
 
 ❤️ Playing with the terminal
 
