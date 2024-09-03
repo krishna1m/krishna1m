@@ -3,7 +3,6 @@
 
 I'm a guy who writes software during the day and headbangs to old metal songs other times.
 I like exploring code architecture and programming paradigms.
-That is what got me into functional programming and Rust.
 
 💬 Talk to me about **functional programming and dev workflow**
 
