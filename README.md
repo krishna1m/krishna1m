@@ -1,14 +1,6 @@
 
 <h1 align="center">Hellooo 👋🏻</h1>
 
-I like code.
-I'm a guy who writes software during the day and headbangs to old metal songs other times.
-
-💬 Talk to me about **dev workflows**
-
-❤️ Playing with the terminal
-
-⚡ **Fun fact** A monad is a monoid in the category of endofunctors 🙃
 
 
 <h3 align="left">Socials</h3>
